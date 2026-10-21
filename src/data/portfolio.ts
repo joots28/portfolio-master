@@ -4,7 +4,7 @@ export const portfolio: {
   introduction: string
   journey: string[][]
   resumePdf: string | null
-  contacts: { label: string href: string }[]
+  contacts: { label: string; href: string }[]
 } = {
   resumePdf: null,
   contacts: [],
