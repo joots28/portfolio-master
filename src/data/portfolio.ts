@@ -6,8 +6,12 @@ export const portfolio: {
   resumePdf: string | null
   contacts: { label: string; href: string }[]
 } = {
-  resumePdf: null,
-  contacts: [],
+  resumePdf: "/cv/Jonathan-Otiniel-Curriculo.pdf",
+  contacts: [
+    { label: "GitHub", href: "https://github.com/joots28" },
+    { label: "LinkedIn", href: "https://www.linkedin.com/in/jonathan-otiniel-053a12290" },
+    { label: "E-mail", href: "mailto:otinieljonathan2804@gmail.com" },
+  ],
   name: "Jonathan Otiniel",
   repository: "https://github.com/joots28/portfolio-master",
   introduction:
@@ -29,4 +33,4 @@ export const portfolio: {
       "Ampliar a visão sobre as diferentes camadas de uma aplicação e como elas se conectam.",
     ],
   ],
-}
+};
