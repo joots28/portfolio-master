@@ -58,6 +58,10 @@ export default function ResumePage() {
           <Text as="h2">Desenvolvimento de Sistemas</Text>
           <Text>Técnico em Desenvolvimento de Sistemas pela Etec.</Text>
           <Text className="muted">Direção de desenvolvimento: Full Stack.</Text>
+          <Text as="h3">Programador de Computadores</Text>
+          <Text>
+            Formação concluída pela Etec, com certificado emitido pela instituição.
+          </Text>
         </div>
       </div>
       <div className="resume-contacts" id="curriculo-contatos" tabIndex={-1}>
