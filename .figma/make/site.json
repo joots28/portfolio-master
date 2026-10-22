@@ -7,5 +7,8 @@
   },
   "icons": {
     "icon": "/favicon.svg"
+  },
+  "openGraph": {
+    "image": "https://images.weserv.nl/?url=raw.githubusercontent.com%2Fjoots28%2Fportfolio-master%2Fportfolio-v3-deploy%2Fpublic%2Fsocial-preview.svg&output=png&w=1200&h=630&v=1"
   }
 }
