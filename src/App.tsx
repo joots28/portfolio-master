@@ -478,6 +478,27 @@ function ProjectPage({ project }: { project: Project }) {
           <Text className="case-note">
             A capa é uma exploração gráfica, não uma tela do produto.
           </Text>
+          <Text className="eyebrow blue">ACESSOS DO PROJETO</Text>
+          <div className="project-access-links">
+            <Link
+              className="text-link"
+              href={project.repositoryUrl}
+              target="_blank"
+              rel="noreferrer"
+            >
+              Repositório no GitHub <Arrow />
+            </Link>
+            {project.siteUrl && (
+              <Link
+                className="text-link"
+                href={project.siteUrl}
+                target="_blank"
+                rel="noreferrer"
+              >
+                Acessar site do EleiNex <Arrow />
+              </Link>
+            )}
+          </div>
         </div>
       </div>
       <Link className="next-project" href={`#/projetos/${next.slug}`}>
