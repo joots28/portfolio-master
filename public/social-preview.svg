@@ -26,11 +26,11 @@
   <g transform="translate(94 165)">
     <rect x="-14" y="-13" width="218" height="218" rx="3" fill="#0c101b" stroke="#315cff" stroke-opacity=".48"/>
     <rect x="-14" y="-13" width="218" height="218" rx="3" fill="none" stroke="#315cff" stroke-opacity=".22" stroke-width="8" filter="url(#softGlow)"/>
-    <path d="M14 158V26L164 158V26" fill="none" stroke="url(#blue)" stroke-width="12" stroke-linecap="square" stroke-linejoin="round"/>
-    <path d="M88 0V183" stroke="#9fb4ff" stroke-opacity=".65" stroke-width="2"/>
-    <path d="M76 13L88 0L100 13" fill="none" stroke="#d9e1ff" stroke-width="2"/>
-    <circle cx="14" cy="26" r="5" fill="#d9e1ff"/>
-    <circle cx="164" cy="158" r="5" fill="#d9e1ff"/>
+    <path d="M7 167H184M7 15H184" stroke="#9fb4ff" stroke-opacity=".2"/>
+    <text x="7" y="143" fill="#f2f4f8" font-family="Arial, Helvetica, sans-serif" font-size="151" font-weight="700" letter-spacing="-11">jo</text>
+    <text x="134" y="63" fill="url(#blue)" font-family="Arial, Helvetica, sans-serif" font-size="85" font-weight="700">∗</text>
+    <path d="M7 184H78" stroke="url(#blue)" stroke-width="4"/>
+    <circle cx="184" cy="167" r="4" fill="#5077ff"/>
   </g>
   <text x="94" y="426" fill="#aeb7d0" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="5">PORTFÓLIO PESSOAL / V3</text>
   <path d="M94 452H284" stroke="url(#blue)" stroke-width="3"/>
