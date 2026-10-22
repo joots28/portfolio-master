@@ -19,7 +19,7 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
 endobj
 7 0 obj
-<< /Length 5594 >>
+<< /Length 5773 >>
 stream
 0.9804 0.9765 0.9882 rg 0 0 595 842 re f
 0.0627 0.0510 0.0824 rg 0 730 595 112 re f
@@ -59,10 +59,12 @@ stream
 0.0980 0.0824 0.1216 rg BT /F1 8 Tf 48 358 Td (documenta\347\343o t\351cnica) Tj ET
 0.0980 0.0824 0.1216 rg BT /F2 8 Tf 339 498 Td (ETEC) Tj ET
 0.0980 0.0824 0.1216 rg BT /F1 8 Tf 339 485 Td (Curso de Desenvolvimento de Sistemas.) Tj ET
-0.4510 0.3255 0.6078 rg BT /F2 7 Tf 339 458 Td (INTERESSES T\311CNICOS) Tj ET
-0.0980 0.0824 0.1216 rg BT /F1 8 Tf 339 445 Td (Desenvolvimento full-stack, interfaces) Tj ET
-0.0980 0.0824 0.1216 rg BT /F1 8 Tf 339 433 Td (acess\355veis, APIs, modelagem de dados e) Tj ET
-0.0980 0.0824 0.1216 rg BT /F1 8 Tf 339 421 Td (arquitetura de aplica\347\365es.) Tj ET
+0.0980 0.0824 0.1216 rg BT /F1 7.5 Tf 339 472 Td (Programador de Computadores) Tj ET
+0.0980 0.0824 0.1216 rg BT /F1 7 Tf 339 461 Td (Formação concluída com certificado Etec) Tj ET
+0.4510 0.3255 0.6078 rg BT /F2 7 Tf 339 438 Td (INTERESSES T\311CNICOS) Tj ET
+0.0980 0.0824 0.1216 rg BT /F1 8 Tf 339 425 Td (Desenvolvimento full-stack, interfaces) Tj ET
+0.0980 0.0824 0.1216 rg BT /F1 8 Tf 339 413 Td (acess\355veis, APIs, modelagem de dados e) Tj ET
+0.0980 0.0824 0.1216 rg BT /F1 8 Tf 339 401 Td (arquitetura de aplica\347\365es.) Tj ET
 0.4510 0.3255 0.6078 rg BT /F2 9 Tf 48 331 Td (PROJETOS SELECIONADOS) Tj ET
 0.8627 0.8392 0.8980 RG 0.7 w 48 324 m 547 324 l S
 0.0980 0.0824 0.1216 rg BT /F2 8.3 Tf 48 306 Td (ChurchManager - projeto acad\352mico / TCC) Tj ET
@@ -100,9 +102,9 @@ xref
 0000000365 00000 n 
 0000000467 00000 n 
 0000000562 00000 n 
-0000006207 00000 n 
+0000006387 00000 n 
 trailer
 << /Size 9 /Root 1 0 R /Info 8 0 R >>
 startxref
-6363
+6543
 %%EOF
