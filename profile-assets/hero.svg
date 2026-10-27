@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Jonathan Otiniel — Portfólio V3</title>
+  <desc id="desc">Header escuro editorial com tipografia monumental, atmosfera azul e órbitas animadas.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07090e"/><stop offset=".55" stop-color="#0a0f1b"/><stop offset="1" stop-color="#05070b"/></linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#3a7bff"/><stop offset=".5" stop-color="#40d7ff"/><stop offset="1" stop-color="#5268ff"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#147dff" stop-opacity=".32"/><stop offset="1" stop-color="#147dff" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#8ebaff" stroke-opacity=".075" stroke-width="1"/></pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="28"/></filter>
+    <style>
+      .orbit{transform-origin:930px 174px;animation:orbit 18s linear infinite}
+      .orbit2{transform-origin:930px 174px;animation:orbit 24s linear infinite reverse}
+      .pulse{animation:pulse 4s ease-in-out infinite}
+      .scan{animation:scan 8s ease-in-out infinite}
+      .blink{animation:blink 1.6s steps(2,end) infinite}
+      @keyframes orbit{to{transform:rotate(360deg)}}
+      @keyframes pulse{0%,100%{opacity:.42}50%{opacity:.9}}
+      @keyframes scan{0%,100%{transform:translateX(-170px);opacity:0}15%,75%{opacity:.85}90%{transform:translateX(270px);opacity:0}}
+      @keyframes blink{50%{opacity:0}}
+      @media(prefers-reduced-motion:reduce){.orbit,.orbit2,.pulse,.scan,.blink{animation:none}}
+    </style>
+  </defs>
+  <rect width="1200" height="360" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="14" fill="url(#grid)"/>
+  <circle cx="930" cy="174" r="205" fill="url(#glow)" filter="url(#blur)"/>
+  <path d="M0 300H1200" stroke="#8ebaff" stroke-opacity=".12"/>
+  <path d="M0 30H1200" stroke="#8ebaff" stroke-opacity=".09"/>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <text x="64" y="63" font-size="12" letter-spacing="4" fill="#6e9dff">PORTFÓLIO PESSOAL / VOL. 03</text>
+    <rect x="64" y="83" width="42" height="3" rx="1.5" fill="url(#blue)"/>
+    <text x="60" y="164" font-size="71" font-weight="800" letter-spacing="-3" fill="#f1f5ff">JONATHAN</text>
+    <text x="60" y="235" font-size="71" font-weight="800" letter-spacing="-3" fill="#f1f5ff">OTINIEL<tspan fill="#58a4ff">.</tspan></text>
+    <text x="65" y="272" font-size="15" letter-spacing="2" fill="#a9b8d1">TÉCNICO EM DESENVOLVIMENTO DE SISTEMAS · ETEC</text>
+    <text x="65" y="310" font-size="13" letter-spacing="2" fill="#6c7f9e">APRENDER. CONECTAR. CONSTRUIR.</text>
+    <text x="1138" y="326" font-size="10" text-anchor="end" letter-spacing="2" fill="#6184bd">SYSTEM ONLINE <tspan class="blink" fill="#58c9ff">●</tspan></text>
+  </g>
+  <g fill="none" stroke-linecap="round">
+    <ellipse class="orbit" cx="930" cy="174" rx="162" ry="57" stroke="#3d91ff" stroke-opacity=".8" stroke-width="1.4" transform="rotate(-34 930 174)"/>
+    <ellipse class="orbit2" cx="930" cy="174" rx="162" ry="57" stroke="#5fe1ff" stroke-opacity=".65" stroke-width="1.2" transform="rotate(44 930 174)"/>
+    <ellipse cx="930" cy="174" rx="112" ry="112" stroke="#4b70ff" stroke-opacity=".4" stroke-width="1" stroke-dasharray="2 9"/>
+    <circle class="pulse" cx="930" cy="174" r="72" stroke="url(#blue)" stroke-width="1.5"/>
+    <circle cx="930" cy="174" r="40" fill="#0b1e37" stroke="#6dbdff" stroke-opacity=".75" stroke-width="1.5"/>
+    <circle class="pulse" cx="930" cy="174" r="21" fill="#3ba9ff" fill-opacity=".22" stroke="#8bdfff" stroke-width="1.2"/>
+    <path class="scan" d="M805 174H1055" stroke="#71e1ff" stroke-width="2" stroke-opacity=".9"/>
+  </g>
+  <circle cx="785" cy="108" r="4" fill="#4f9cff"/><circle cx="1078" cy="229" r="3" fill="#54dbff"/>
+  <circle cx="1008" cy="80" r="2" fill="#a3c7ff" class="pulse"/><circle cx="844" cy="265" r="2" fill="#74b9ff" class="pulse"/>
+  <path d="M64 337H280" stroke="url(#blue)" stroke-width="2"/>
+  <text x="295" y="341" font-family="monospace" font-size="10" letter-spacing="2" fill="#6785b0">BUILDING THE NEXT VERSION</text>
+</svg>
