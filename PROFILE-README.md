@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://jonathan-otiniel-portfolio-v3.onrender.com">
-  <img src="https://raw.githubusercontent.com/joots28/portfolio-master/main/profile-assets/hero.svg" alt="Jonathan Otiniel — Portfólio V3" width="100%">
+  <img src="./profile-assets/hero.svg" alt="Jonathan Otiniel — Portfólio V3" width="100%">
 </a>
 
 <p>
@@ -10,7 +10,7 @@
   <a href="mailto:otinieljonathan2804@gmail.com"><img src="https://img.shields.io/badge/CONTATO-E--MAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Enviar e-mail"></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/joots28/portfolio-master/main/profile-assets/divider.svg" width="100%" alt="Divisor azul animado">
+<img src="./profile-assets/divider.svg" width="100%" alt="Divisor azul animado">
 
 </div>
 
@@ -24,7 +24,7 @@ Gosto de transformar ideias em sistemas claros, úteis e bem estruturados. Meu f
 > Cada projeto é uma oportunidade de entender melhor o problema, estruturar uma solução e melhorar a execução.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/joots28/portfolio-master/main/profile-assets/divider.svg" width="100%" alt="">
+  <img src="./profile-assets/divider.svg" width="100%" alt="">
 </div>
 
 ## 02 / PROJETOS EM DESTAQUE
@@ -33,7 +33,7 @@ Gosto de transformar ideias em sistemas claros, úteis e bem estruturados. Meu f
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/joots28/ChurchMennager">
-        <img src="https://raw.githubusercontent.com/joots28/portfolio-master/main/profile-assets/churchmanager.svg" alt="ChurchManager — gestão e organização" width="100%">
+        <img src="./profile-assets/churchmanager.svg" alt="ChurchManager — gestão e organização" width="100%">
       </a>
       <p><strong><a href="https://github.com/joots28/ChurchMennager">ChurchManager</a></strong></p>
       Sistema em desenvolvimento para centralizar informações, membros, ministérios, eventos e movimentações de uma igreja.
@@ -41,7 +41,7 @@ Gosto de transformar ideias em sistemas claros, úteis e bem estruturados. Meu f
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/joots28/portifolio/tree/eleinexus-site/eleinexus">
-        <img src="https://raw.githubusercontent.com/joots28/portfolio-master/main/profile-assets/eleinex.svg" alt="EleiNex — informação cívica" width="100%">
+        <img src="./profile-assets/eleinex.svg" alt="EleiNex — informação cívica" width="100%">
       </a>
       <p><strong><a href="https://github.com/joots28/portifolio/tree/eleinexus-site/eleinexus">EleiNex</a></strong></p>
       Projeto de informação cívica focado em tornar propostas e informações eleitorais mais fáceis de explorar e comparar.
@@ -53,7 +53,7 @@ Gosto de transformar ideias em sistemas claros, úteis e bem estruturados. Meu f
 <p align="center"><a href="https://jonathan-otiniel-portfolio-v3.onrender.com/#projetos">VER PORTFÓLIO COMPLETO ↗</a></p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/joots28/portfolio-master/main/profile-assets/divider.svg" width="100%" alt="">
+  <img src="./profile-assets/divider.svg" width="100%" alt="">
 </div>
 
 ## 03 / TECNOLOGIAS
@@ -71,7 +71,7 @@ Tecnologias que estudo e utilizo na minha jornada de desenvolvimento:
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/joots28/portfolio-master/main/profile-assets/divider.svg" width="100%" alt="">
+  <img src="./profile-assets/divider.svg" width="100%" alt="">
 </div>
 
 ## 04 / COMO EU CONSTRUO
@@ -98,7 +98,7 @@ Tecnologias que estudo e utilizo na minha jornada de desenvolvimento:
 </table>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/joots28/portfolio-master/main/profile-assets/divider.svg" width="100%" alt="">
+  <img src="./profile-assets/divider.svg" width="100%" alt="">
 </div>
 
 ## 05 / PRÓXIMA VERSÃO
