@@ -1,0 +1,14 @@
+{
+  "title": "Jonathan Otiniel — Portfólio V3",
+  "description": "Portfólio de Jonathan Otiniel, Técnico em Desenvolvimento de Sistemas pela Etec e em evolução rumo ao Full Stack.",
+  "language": "pt-BR",
+  "robots": {
+    "index": true
+  },
+  "icons": {
+    "icon": "/favicon.svg"
+  },
+  "openGraph": {
+    "image": "https://images.weserv.nl/?url=raw.githubusercontent.com%2Fjoots28%2Fportfolio-master%2Fportfolio-v3-deploy%2Fpublic%2Fsocial-preview.svg&output=png&w=1200&h=630&v=2"
+  }
+}

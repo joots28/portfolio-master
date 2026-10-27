@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="<!-- figma:lang -->">
+  <head>
+    <!-- figma:head-start -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      // Remove o parâmetro de rastreamento que o ChatGPT pode acrescentar ao abrir o link.
+      (function () {
+        const url = new URL(window.location.href);
+        if (url.searchParams.get("utm_source") === "chatgpt.com") {
+          url.searchParams.delete("utm_source");
+          const query = url.searchParams.toString();
+          window.history.replaceState(
+            window.history.state,
+            "",
+            url.pathname + (query ? "?" + query : "") + url.hash
+          );
+        }
+      })();
+    </script>
+    <title><!-- figma:title --></title>
+    <!-- figma:head-end -->
+  </head>
+  <body>
+    <!-- figma:body-start -->
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <!-- figma:body-end -->
+  </body>
+</html>
