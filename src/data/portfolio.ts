@@ -4,9 +4,11 @@ export const portfolio: {
   introduction: string
   journey: string[][]
   resumePdf: string | null
+  usResumePdf: string | null
   contacts: { label: string; href: string }[]
 } = {
   resumePdf: "/cv/Jonathan-Otiniel-Curriculo.pdf",
+  usResumePdf: "/cv/Jonathan-Otiniel-US-Resume.pdf",
   contacts: [
     { label: "GitHub", href: "https://github.com/joots28" },
     { label: "LinkedIn", href: "https://www.linkedin.com/in/jonathan-otiniel-053a12290" },
