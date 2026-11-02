@@ -3,8 +3,8 @@ export const portfolio: {
   repository: string
   introduction: string
   journey: string[][]
-  resumePdf: string | null
-  usResumePdf: string | null
+  resumePdf: string
+  usResumePdf: string
   contacts: { label: string; href: string }[]
 } = {
   resumePdf: "/cv/Jonathan-Otiniel-Curriculo.pdf",
